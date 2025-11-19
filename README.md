@@ -47,7 +47,7 @@ Aucune donnée personnelle, aucune donnée client réelle.
 
 ---
 
-🖊️ Auteur
+## 🖊️ Auteur
 
 Aurélien PRAT – APBI
 Consultant Business Intelligence & Data Analyst
