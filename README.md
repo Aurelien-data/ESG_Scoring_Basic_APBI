@@ -1,4 +1,4 @@
-# 🌱 ESG Scoring Dashboard – APBI  
+# 🌱 ESG Scoring Dashboard – APBI (basic)  
 **Python EDA + Dataiku DSS + Power BI**
 
 Ce projet présente un pipeline complet de **scoring ESG** construit en trois étapes :
