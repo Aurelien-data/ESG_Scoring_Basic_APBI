@@ -37,10 +37,20 @@ Power BI : modélisation simple, KPIs, graphiques analytiques, design de dashboa
 
 ESG / CSRD : logique de score E/S/G, intensités environnementales, analyse sectorielle.
 
+---
+
 ## 🔒 Données & confidentialité
 
 Dataset totalement synthétique, généré pour l’exercice.
 
 Aucune donnée personnelle, aucune donnée client réelle.
+
+---
+
+🖊️ Auteur
+
+Aurélien PRAT – APBI
+Consultant Business Intelligence & Data Analyst
+Spécialisé Power BI, Dataiku et valorisation de la donnée pour les PME/ETI.
 
 
