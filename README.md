@@ -25,4 +25,22 @@ L’objectif est de démontrer une chaîne de valeur data **de bout en bout** au
 [Python EDA]  -->  [Dataiku DSS : préparation & scoring]  -->  [Power BI : dashboard ESG]
 company_esg_synth.csv           esg_raw / esg_prepared / esg_scored_final         ESG_Scoring_Dashboard.pbix
 
+---
+
+## 🧩 Compétences mises en avant
+
+Python : Pandas, visualisation, EDA, construction des indicateurs.
+
+Dataiku DSS : ingestion, recipes de préparation, normalisation, scoring, structuration du flow.
+
+Power BI : modélisation simple, KPIs, graphiques analytiques, design de dashboard.
+
+ESG / CSRD : logique de score E/S/G, intensités environnementales, analyse sectorielle.
+
+## 🔒 Données & confidentialité
+
+Dataset totalement synthétique, généré pour l’exercice.
+
+Aucune donnée personnelle, aucune donnée client réelle.
+
 
